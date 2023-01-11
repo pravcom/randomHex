@@ -1,4 +1,6 @@
 # randomHex
 Случайный цвет странички 
 
-[Ссылка](https://pravcom.github.io/randomHex/)
+- Меняет цвет фона
+- указывает текущий цвет фона
+-[Ссылка](https://pravcom.github.io/randomHex/)
