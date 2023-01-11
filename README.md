@@ -1,4 +1,4 @@
 # randomHex
 Случайный цвет странички 
 
-[Ссылка]()
+[Ссылка](https://pravcom.github.io/randomHex/)
