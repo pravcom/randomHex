@@ -3,4 +3,4 @@
 
 - Меняет цвет фона
 - указывает текущий цвет фона
--[Ссылка](https://pravcom.github.io/randomHex/)
+- [Ссылка](https://pravcom.github.io/randomHex/)
